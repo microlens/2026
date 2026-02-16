@@ -1,0 +1,8 @@
+{
+  "installCommand": "bun install",
+  "buildCommand": "gatsby build",
+  "outputDirectory": "public",
+  "github": {
+    "silent": true
+  }
+}
