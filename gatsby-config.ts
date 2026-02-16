@@ -6,7 +6,7 @@ const config: GatsbyConfig = {
     siteTitle: `2026`,
     siteTitleAlt: `2026`,
     siteHeadline: `2026`,
-    siteUrl: `https://microlens.github.io/2026`,
+    siteUrl: `https://2026-microlens.vercel.app`,
     siteDescription: 'This is 2026.',
     siteImage: `/og-image.jpg`,
     siteLanguage: `en`,
